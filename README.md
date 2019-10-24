@@ -4,11 +4,12 @@ languages:
 - java
 products:
 - azure
+- azure-container-instances
 description: "Azure Container Instance sample for managing container instances with Azure File Share mount."
 urlFragment: aci-java-manage-container-instances-2
 ---
 
-# Manage Container Instance With Manual Azure File Share Mount Creation (Java)
+# Manage Container Instance with Azure File Share mount (Java)
 
 
   Azure Container Instance sample for managing container instances with Azure File Share mount.
